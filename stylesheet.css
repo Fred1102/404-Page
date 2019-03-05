@@ -1,0 +1,19 @@
+body{
+    background-color: purple;
+  }
+
+  
+  .back_button{
+    font-family: Arial;
+    text-align: center;
+    width: 1000px;
+    height: 600px;
+    position: relative;
+    top: 50px;
+    left: 50px;
+    /*background-color: gray;*/
+    background-image: url(achtergrond.jpg);
+    background-repeat: no-repeat;
+    background-position: top 30% left 50%;
+    background-size: contain;
+  }
